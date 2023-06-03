@@ -21,14 +21,19 @@ This is a Node.js application built using TypeScript and PostgreSQL. It uses Pri
 
 
 To start the application, run the following command:
+
   npm start
-  This will compile the TypeScript code to JavaScript and execute the dist/app.js file.
+  
+This will compile the TypeScript code to JavaScript and execute the dist/app.js file.
 
 For development, you can use the following command to automatically restart the server when changes are made:
+
   npm run dev
 To run the tests, use the following command:
+
   npm test
 To manually build the TypeScript code, use the following command:
+
   npm run build
 
 
